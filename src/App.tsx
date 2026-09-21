@@ -228,7 +228,7 @@ function App() {
             <h1 className="app-title">SwiftLink</h1>
           </div>
           <p className="app-subtitle">
-            A premium, ultra-fast link shortener with local history, dynamic QR code generation, and glowing feedback animations.
+            Url shortner Designed to handle millions of request at onece
           </p>
         </header>
 
