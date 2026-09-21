@@ -119,6 +119,7 @@ function App() {
     }
 
     try {
+      console.log("API_SHORTEN_URL", API_SHORTEN_URL)
       const response = await fetch(API_SHORTEN_URL, {
         method: "POST",
         headers: {
