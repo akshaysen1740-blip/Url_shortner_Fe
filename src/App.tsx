@@ -228,7 +228,7 @@ function App() {
             <h1 className="app-title">SwiftLink</h1>
           </div>
           <p className="app-subtitle">
-            Url shortner Designed to handle millions of request at onece
+            Url shortner Designed to handle millions of request at onece..........
           </p>
         </header>
 
