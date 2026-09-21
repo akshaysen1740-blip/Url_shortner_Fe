@@ -5,7 +5,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Set the backend shorten endpoint in `.env` before starting the app:
 
 ```env
-VITE_API_SHORTEN_URL=http://localhost:8000/api/short
+API_SHORTEN_URL=http://localhost:8000/api/short
 ```
 
 Currently, two official plugins are available:

@@ -16,7 +16,7 @@ import confetti from "canvas-confetti";
 import { QRCodeSVG } from "qrcode.react";
 import { ToastContainer, type ToastMessage } from "./components/Toast";
 
-const API_SHORTEN_URL = import.meta.env.VITE_API_SHORTEN_URL;
+const API_SHORTEN_URL = import.meta.env.API_SHORTEN_URL;
 
 interface HistoryItem {
   id: string;
